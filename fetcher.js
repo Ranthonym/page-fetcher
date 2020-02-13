@@ -1,5 +1,5 @@
 const request = require('request');
-const fs = require('fs');3
+const fs = require('fs');
 
 const inputArr = process.argv.slice(2); 
 const url = inputArr[0].toString();  
